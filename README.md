@@ -1,11 +1,14 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=110&section=header" alt="header wave" />
-</p>
-
 <h1 align="center">Hi, I'm Yusuf Sheriff 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=3000&pause=800&center=true&vCenter=true&width=700&color=%232F81F7&hideBorder=true&lines=B.E.+CSE+%40+KSR+College+of+Engineering&lines=Building+web+apps+with+Python+%26+React&lines=Strengthening+DSA+%26+fundamentals&lines=Always+learning%2C+always+building" alt="typing intro" />
+</p>
+
+<p align="center">
+  <code>$ whoami &nbsp;→&nbsp; Yusuf Sheriff · B.E. CSE @ KSR College of Engineering (2029)</code><br/>
+  <code>$ building &nbsp;&nbsp;→&nbsp; React frontends · Node.js &amp; MongoDB backends</code><br/>
+  <code>$ learning &nbsp;&nbsp;→&nbsp; DSA · Cloud &amp; Security fundamentals</code><br/>
+  <code>$ open_to &nbsp;&nbsp;&nbsp;→&nbsp; collaboration &amp; hackathons</code>
 </p>
 
 ---
