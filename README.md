@@ -27,7 +27,7 @@
 
 **B.E. Computer Science & Engineering** at **KSR College of Engineering** (Class of 2029), building toward a career in software engineering and modern IT. I learn by building — full-stack apps and hackathon projects — and I treat every repo as practice for writing better software.
 
-<img align="right" alt="coding" src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&filt=duotone&filtcolor=61dafb%2C000000" width="400" height="300" />
+<img align="right" alt="coding" src="https://raw.githubusercontent.com/AswinBarath/AswinBarath/refs/heads/master/coding.gif" width="400" height="300" />
 
 - 💻 Building full-stack web apps — React frontends with Node.js & MongoDB backends
 - 🗄️ Exploring databases, cloud and cybersecurity fundamentals
