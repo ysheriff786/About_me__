@@ -77,44 +77,20 @@ Split by actual hands-on depth — no inflated labels.
 ### CORE / HANDS-ON
 *Used directly in my own work.*
 
-**Languages**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" alt="Python, JavaScript, TypeScript, HTML, CSS" />
-</p>
-
-<p align="center"><i>Python · JavaScript · TypeScript · HTML · CSS · SQL</i></p>
-
-**Foundations (academic)** — lighter hands-on
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp" alt="Java, C, C++" />
-</p>
-
-**Frontend**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs" alt="React, Vite, Tailwind CSS, Three.js" />
-</p>
-
-**Backend & Data**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express, MongoDB" />
-</p>
-
-**Tools**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" />
-</p>
+| Category | Stack |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" alt="Python, JavaScript, TypeScript, HTML, CSS" /> · SQL |
+| **Foundations (academic)** — lighter hands-on | <img src="https://skillicons.dev/icons?i=java,c,cpp" alt="Java, C, C++" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs" alt="React, Vite, Tailwind CSS, Three.js" /> |
+| **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express, MongoDB" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" /> |
 
 ### TEAM / PROJECT EXPOSURE
 *Via team & hackathon projects.*
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,fastapi,postgresql,redis,docker,vercel,firebase" alt="Next.js, FastAPI, PostgreSQL, Redis, Docker, Vercel, Firebase" />
-</p>
+| Category | Stack |
+|---|---|
+| **Team / Hackathon** | <img src="https://skillicons.dev/icons?i=nextjs,fastapi,postgresql,redis,docker,vercel,firebase" alt="Next.js, FastAPI, PostgreSQL, Redis, Docker, Vercel, Firebase" /> |
 
 ### CURRENTLY LEARNING
 *Actively studying — not yet claimed as skills.*
