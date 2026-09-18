@@ -99,7 +99,6 @@ Split by actual hands-on depth — no inflated labels.
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/ysheriff786?style=for-the-badge&logo=github&logoColor=white&color=2f81f7" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/repos/ysheriff786?style=for-the-badge&logo=github&logoColor=white&color=2f81f7" alt="Public repositories" />
   <img src="https://img.shields.io/github/stars/ysheriff786?style=for-the-badge&logo=github&logoColor=white&color=2f81f7" alt="GitHub stars" />
 </p>
 
