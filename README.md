@@ -124,19 +124,6 @@ Split by actual hands-on depth — no inflated labels.
   <img src="https://img.shields.io/github/stars/ysheriff786?style=for-the-badge&logo=github&logoColor=white&color=2f81f7" alt="GitHub stars" />
 </p>
 
-<details>
-  <summary>More stats</summary>
-  <br/>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ysheriff786" alt="GitHub streak" />
-    <br/>
-    <img src="https://gitreadme.vercel.app/api/top-langs/?username=ysheriff786" alt="Top languages" />
-  </p>
-
-  <p align="center"><i>Top languages reflect my public code, not skill level.</i></p>
-</details>
-
 ---
 
 ## 📫 Connect With Me
