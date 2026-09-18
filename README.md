@@ -74,11 +74,52 @@ These were **team efforts** — I contributed within a group; I did not build th
 
 Split by actual hands-on depth — no inflated labels.
 
-| Tier | Technologies |
-|---|---|
-| **CORE / HANDS-ON** — used directly in my own work | **Languages:** Python · JavaScript · TypeScript · HTML · CSS · SQL · **Foundations (academic):** Java · C · C++ · **Frontend:** React · Vite · Tailwind CSS · Three.js · **Backend & Data:** Node.js · Express · MongoDB (Mongoose) · **Tools:** Git · GitHub |
-| **TEAM / PROJECT EXPOSURE** — via team & hackathon projects | Next.js · FastAPI · PostgreSQL · Redis · Docker · Vercel · Firebase |
-| **CURRENTLY LEARNING** — actively studying | DSA · Cloud & Security fundamentals |
+### CORE / HANDS-ON
+*Used directly in my own work.*
+
+**Languages**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" alt="Python, JavaScript, TypeScript, HTML, CSS" />
+</p>
+
+<p align="center"><i>Python · JavaScript · TypeScript · HTML · CSS · SQL</i></p>
+
+**Foundations (academic)** — lighter hands-on
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp" alt="Java, C, C++" />
+</p>
+
+**Frontend**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs" alt="React, Vite, Tailwind CSS, Three.js" />
+</p>
+
+**Backend & Data**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express, MongoDB" />
+</p>
+
+**Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" />
+</p>
+
+### TEAM / PROJECT EXPOSURE
+*Via team & hackathon projects.*
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,fastapi,postgresql,redis,docker,vercel,firebase" alt="Next.js, FastAPI, PostgreSQL, Redis, Docker, Vercel, Firebase" />
+</p>
+
+### CURRENTLY LEARNING
+*Actively studying — not yet claimed as skills.*
+
+> DSA · Cloud & Security fundamentals
 
 ---
 
