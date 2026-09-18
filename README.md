@@ -27,7 +27,7 @@
 
 **B.E. Computer Science & Engineering** at **KSR College of Engineering** (Class of 2029), building toward a career in software engineering and modern IT. I learn by building — full-stack apps and hackathon projects — and I treat every repo as practice for writing better software.
 
-<img align="right" alt="coding" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" />
+<img align="right" alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="314" />
 
 - 💻 Building full-stack web apps — React frontends with Node.js & MongoDB backends
 - 🗄️ Exploring databases, cloud and cybersecurity fundamentals
