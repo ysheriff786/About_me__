@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ysheriff786)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheriff786)
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YusufSheriff_07)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysheriff369@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=web&logoColor=white)](https://ysheriff786.github.io/portfolio/)
+  <a href="https://github.com/ysheriff786"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/sheriff786"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/YusufSheriff_07"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:ysheriff369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://ysheriff786.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -45,14 +45,14 @@ Still deepening all of these — this is what I build and study with today.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flask,git,github,vercel" alt="web & tools" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flask,git,github,vercel" alt="web and tools" />
 </p>
 
 <p align="center">
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-  ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
-  ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square)
-  ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square)
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX Runtime" />
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square" alt="GitHub Pages" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square" alt="Render" />
 </p>
 
 ---
@@ -106,8 +106,9 @@ A smart-plant monitoring platform that ingests sensor telemetry and runs real ML
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ysheriff786&show_icons=true&hide_border=true&border_radius=14&bg_color=ffffff&text_color=24292e&title_color=24292e&icon_color=2f81f7" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysheriff786&layout=compact&hide_border=true&border_radius=14&bg_color=ffffff&text_color=24292e&title_color=24292e" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/ysheriff786?style=for-the-badge&logo=github&logoColor=white&color=2f81f7" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/repos/ysheriff786?style=for-the-badge&logo=github&logoColor=white&color=2f81f7" alt="Public repositories" />
+  <img src="https://img.shields.io/github/stars/ysheriff786?style=for-the-badge&logo=github&logoColor=white&color=2f81f7" alt="GitHub stars" />
 </p>
 
 ---
