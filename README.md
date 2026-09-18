@@ -88,13 +88,6 @@ Split by actual hands-on depth — no inflated labels.
 | **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express, MongoDB" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" /> |
 
-### TEAM / PROJECT EXPOSURE
-*Via team & hackathon projects.*
-
-| Category | Stack |
-|---|---|
-| **Team / Hackathon** | <img src="https://skillicons.dev/icons?i=nextjs,fastapi,postgresql,redis,docker,vercel,firebase" alt="Next.js, FastAPI, PostgreSQL, Redis, Docker, Vercel, Firebase" /> |
-
 ### CURRENTLY LEARNING
 *Actively studying — not yet claimed as skills.*
 
