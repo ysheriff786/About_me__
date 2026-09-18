@@ -5,16 +5,16 @@
 <h1 align="center">Hi, I'm Yusuf Sheriff 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=3000&pause=800&center=true&vCenter=true&width=700&color=%232F81F7&hideBorder=true&lines=B.E.+CSE+%40+KSR+College+of+Engineering&lines=Building+web+apps%2C+ML+%26+automation&lines=Exploring+n8n+%26+workflow+automation&lines=Always+learning%2C+always+building" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=3000&pause=800&center=true&vCenter=true&width=700&color=%232F81F7&hideBorder=true&lines=B.E.+CSE+%40+KSR+College+of+Engineering&lines=Building+web+apps+with+Python+%26+React&lines=Strengthening+DSA+%26+fundamentals&lines=Always+learning%2C+always+building" alt="typing intro" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-**B.E. Computer Science & Engineering** at **KSR College of Engineering** (Class of 2029), building toward a career in software engineering and modern IT. I learn by building — full-stack apps, in-browser ML, and hackathon projects — and I treat every repo as practice for writing better software.
+**B.E. Computer Science & Engineering** at **KSR College of Engineering** (Class of 2029), building toward a career in software engineering and modern IT. I learn by building — full-stack apps and hackathon projects — and I treat every repo as practice for writing better software.
 
-- 🤖 Interested in AI & AI-assisted development, and workflow automation (**n8n**)
+- 💻 Building full-stack web apps — React frontends with Node.js & MongoDB backends
 - 🗄️ Exploring databases, cloud and cybersecurity fundamentals
 - 🏆 Competing in hackathons and collaborating on team projects (SIH)
 - 🎯 Focused on a deeper understanding, not just code that runs
@@ -65,61 +65,20 @@ These were **team efforts** — I contributed within a group; I did not build th
 
 | Area | What I'm doing |
 |---|---|
-| 🔁 **Workflow Automation** | Building small **n8n** workflows |
 | 🧩 **Problem Solving** | Strengthening DSA fundamentals in C, C++, Java (coursework) |
 | ☁️ **Cloud & Security** | Fundamentals — just starting out |
-| 🤖 **AI / ML** | Going deeper on how models fit into real products |
 
 ---
 
 ## 🛠️ Technical Stack
 
-I split this by actual hands-on depth — so it stays honest in an interview. No inflated labels.
+Split by actual hands-on depth — no inflated labels.
 
-### CORE / HANDS-ON
-*Technologies I've used directly in my own work and can reasonably discuss.*
-
-**Languages**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" alt="python, javascript, typescript, html, css" />
-</p>
-
-**Academic / Programming Foundations** *(coursework — solid, but lighter hands-on)*
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp" alt="java, c, cpp" />
-</p>
-
-**Frontend · Backend · Database**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs,nodejs,express,mongodb" alt="react, vite, tailwind, threejs, nodejs, express, mongodb" />
-</p>
-
-**AI / ML**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX Runtime" />
-</p>
-
-**Tools**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" alt="git, github" />
-</p>
-
-### TEAM / PROJECT EXPOSURE
-*Encountered through team/hackathon projects — not solo hands-on.*
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,fastapi,postgresql,redis,docker,vercel,firebase" alt="nextjs, fastapi, postgresql, redis, docker, vercel, firebase" />
-</p>
-
-### CURRENTLY LEARNING
-*Actively studying — not yet claimed as skills.*
-
-> **n8n** (Automation / Workflow) · DSA · Cloud & Security fundamentals · deeper ML / AI
+| Tier | Technologies |
+|---|---|
+| **CORE / HANDS-ON** — used directly in my own work | **Languages:** Python · JavaScript · TypeScript · HTML · CSS · SQL · **Foundations (academic):** Java · C · C++ · **Frontend:** React · Vite · Tailwind CSS · Three.js · **Backend & Data:** Node.js · Express · MongoDB (Mongoose) · **Tools:** Git · GitHub |
+| **TEAM / PROJECT EXPOSURE** — via team & hackathon projects | Next.js · FastAPI · PostgreSQL · Redis · Docker · Vercel · Firebase |
+| **CURRENTLY LEARNING** — actively studying | DSA · Cloud & Security fundamentals |
 
 ---
 
