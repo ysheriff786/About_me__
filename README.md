@@ -80,13 +80,35 @@ Split by actual hands-on depth — no inflated labels.
 ### CORE / HANDS-ON
 *Used directly in my own work.*
 
-| Category | Stack |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" alt="Python, JavaScript, TypeScript, HTML, CSS" /> · SQL |
-| **Foundations (academic)** — lighter hands-on | <img src="https://skillicons.dev/icons?i=java,c,cpp" alt="Java, C, C++" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs" alt="React, Vite, Tailwind CSS, Three.js" /> |
-| **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express, MongoDB" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" /> |
+**Languages**
+
+| <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python" /> | <img src="https://skillicons.dev/icons?i=javascript" width="40" alt="JavaScript" /> | <img src="https://skillicons.dev/icons?i=typescript" width="40" alt="TypeScript" /> | <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" /> | <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" /> | 🗄️ |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **Python** | **JavaScript** | **TypeScript** | **HTML** | **CSS** | **SQL** |
+
+**Foundations (academic)** — lighter hands-on
+
+| <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java" /> | <img src="https://skillicons.dev/icons?i=c" width="40" alt="C" /> | <img src="https://skillicons.dev/icons?i=cpp" width="40" alt="C++" /> |
+| :---: | :---: | :---: |
+| **Java** | **C** | **C++** |
+
+**Frontend**
+
+| <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /> | <img src="https://skillicons.dev/icons?i=vite" width="40" alt="Vite" /> | <img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind CSS" /> | <img src="https://skillicons.dev/icons?i=threejs" width="40" alt="Three.js" /> |
+| :---: | :---: | :---: | :---: |
+| **React** | **Vite** | **Tailwind CSS** | **Three.js** |
+
+**Backend & Data**
+
+| <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" /> | <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express" /> | <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" /> |
+| :---: | :---: | :---: |
+| **Node.js** | **Express** | **MongoDB (Mongoose)** |
+
+**Tools**
+
+| <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /> | <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /> |
+| :---: | :---: |
+| **Git** | **GitHub** |
 
 ### CURRENTLY LEARNING
 *Actively studying — not yet claimed as skills.*
